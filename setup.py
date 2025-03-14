@@ -11,10 +11,10 @@ setup(
         "matplotlib",
         "pandas"
     ],
-    author="Your Name",
+    author="Mojtaba Jahanian",
     author_email="your_email@example.com",
     description="A package for evaluating clustering algorithms using NCQI.",
-    url="https://github.com/yourusername/clustering_eval",
+    url="https://github.com/Mojtaba-jahanian/Cosine-Clustering-Index-CCI-",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
